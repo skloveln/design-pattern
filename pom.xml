@@ -9,6 +9,7 @@
 
     <modules>
         <module>singleton-pattern</module>
+        <module>observer-pattern</module>
     </modules>
 
     <build>
