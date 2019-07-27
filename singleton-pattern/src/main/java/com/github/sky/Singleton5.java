@@ -4,15 +4,14 @@ package com.github.sky;
  * 枚举的方式创建
  */
 public enum Singleton5 {
+
     INSTANCE;
 
-    private Resource single = null;
-
-    Singleton5(){
-        single = new Resource();
+    public void doSomething(){
+        // 业务方法
     }
 
-    public Resource getInstance() {
-        return single;
+    public static void doSomething(String[] args) {
+        //业务方法
     }
 }

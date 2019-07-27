@@ -5,18 +5,22 @@ package com.github.sky;
  */
 public class Singleton3 {
 
-    private volatile static Resource singleton = null;
+    private volatile static Singleton3 singleton = null;
 
     private Singleton3(){}
 
-    public static Resource getInstance(){
+    public static Singleton3 getInstance(){
         if(singleton == null){
-            synchronized (Resource.class){
+            synchronized (Singleton3.class){
                 if(singleton == null){
-                    singleton = new Resource();
+                    singleton = new Singleton3();
                 }
             }
         }
         return singleton;
+    }
+
+    public static void doSomething(String[] args) {
+        //业务方法
     }
 }

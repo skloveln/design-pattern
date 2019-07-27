@@ -1,18 +1,21 @@
 package com.github.sky;
 
 /**
- * 匿名内部类方式创建
+ * 静态内部类方式创建
  */
 public class Singleton4 {
 
     private static class SingleHolder{
-        private static Resource singleton = new Resource();
+        private static Singleton4 singleton = new Singleton4();
     }
 
     private Singleton4(){ }
 
-    public static Resource getInstance(){
+    public static Singleton4 getInstance(){
         return SingleHolder.singleton;
     }
 
+    public static void doSomething(String[] args) {
+        //业务方法
+    }
 }
