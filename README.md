@@ -10,7 +10,8 @@
 >这些设计模式特别关注对象之间的通信。
 
 - J2EE 模式
->这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。<br/><br/>  
+>这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
+<br/><br/>  
   
 <table>
   <tbody>
