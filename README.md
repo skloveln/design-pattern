@@ -1,11 +1,11 @@
 ## 设计模式分类
 
-<table style="width:100%;">
-  <tbody style="width:100%;">
+<table>
+  <tbody>
     <tr>
-      <th style="width:20%;">序号</th>
-      <th style="width:40%;">模式 &amp; 描述</th>
-      <th style="width:40%;">包括</th>
+      <th>序号</th>
+      <th>模式 &amp; 描述</th>
+      <th>包括</th>
     </tr>
     <tr>
       <td>1</td>
@@ -84,4 +84,4 @@
 
 
 ## 设计模式之间的关系 
-<img src="https://www.runoob.com/wp-content/uploads/2014/08/the-relationship-between-design-patterns.jpg" width="70%">
+<img src="https://www.runoob.com/wp-content/uploads/2014/08/the-relationship-between-design-patterns.jpg" width="100%">
