@@ -1,5 +1,4 @@
-package com.github.sky;
-
+import com.github.sky.*;
 import org.junit.Assert;
 import org.junit.Test;
 
