@@ -2,8 +2,10 @@ package com.github.sky;
 
 /**
  * TCP协议实现
+ *
+ * @author sukai
  */
-public class TcpProtocol implements Protocol{
+public class TcpProtocol implements Protocol {
 
     @Override
     public void connect() {

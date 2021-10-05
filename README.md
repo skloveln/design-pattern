@@ -25,9 +25,8 @@
       <td><b>创建型模式</b><br></td>
       <td>
         <ul>
-          <li>工厂模式（Factory Pattern）</li>
-          <li>抽象工厂模式（Abstract Factory Pattern）</li>
-          <li>单例模式（Singleton Pattern）</li>
+          <li><a href='factory-pattern/document/工厂模式.md'>工厂模式（Factory Pattern）</a></li>
+          <li><a href='singleton-pattern/document/单例模式.md'>单例模式（Singleton Pattern）</a></li>
           <li>建造者模式（Builder Pattern）</li>
           <li>原型模式（Prototype Pattern）</li>
         </ul>
@@ -60,7 +59,7 @@
           <li>迭代器模式（Iterator Pattern）</li>
           <li>中介者模式（Mediator Pattern）</li>
           <li>备忘录模式（Memento Pattern）</li>
-          <li>观察者模式（Observer Pattern）</li>
+          <li><a href='singleton-pattern/document/单例模式.md'>观察者模式（Observer Pattern）</a></li>
           <li>状态模式（State Pattern）</li>
           <li>空对象模式（Null Object Pattern）</li>
           <li>策略模式（Strategy Pattern）</li>

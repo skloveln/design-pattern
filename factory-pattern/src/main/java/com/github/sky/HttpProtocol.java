@@ -2,8 +2,10 @@ package com.github.sky;
 
 /**
  * HTTP协议实现
+ *
+ * @author sukai
  */
-public class HttpProtocol implements Protocol{
+public class HttpProtocol implements Protocol {
 
     @Override
     public void connect() {

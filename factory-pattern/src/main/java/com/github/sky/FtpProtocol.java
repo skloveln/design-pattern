@@ -2,8 +2,10 @@ package com.github.sky;
 
 /**
  * FTP协议实现
+ *
+ * @author sukai
  */
-public class FtpProtocol implements Protocol{
+public class FtpProtocol implements Protocol {
 
     @Override
     public void connect() {
