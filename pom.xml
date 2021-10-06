@@ -11,7 +11,16 @@
         <module>singleton-pattern</module>
         <module>observer-pattern</module>
         <module>factory-pattern</module>
+        <module>builder-pattern</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.18</version>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
