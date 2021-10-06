@@ -1,7 +1,7 @@
 package com.github.sky;
 
 
-import org.springframework.util.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -76,7 +76,7 @@ public class MealBuilder {
         if (items.size() == 0) {
             throw new RuntimeException("未设置套餐明细");
         }
-        if (StringUtils.isEmpty(name)) {
+        if (StringUtils.isBlank(name)) {
             throw new RuntimeException("未设置套餐名称");
         }
         return new Meal(items, name);
