@@ -28,7 +28,7 @@
           <li><a href='factory-pattern/document/工厂模式.md'>工厂模式（Factory Pattern）</a></li>
           <li><a href='singleton-pattern/document/单例模式.md'>单例模式（Singleton Pattern）</a></li>
           <li><a href='builder-pattern/document/建造者模式.md'>建造者模式（Builder Pattern）</a></li>
-          <li>原型模式（Prototype Pattern）</li>
+          <li><a href='prototype-pattern/document/原型模式.md'>原型模式（Prototype Pattern）</a></li>
         </ul>
       </td>
     </tr>
