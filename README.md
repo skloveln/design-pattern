@@ -37,7 +37,7 @@
       <td><b>结构型模式</b></td>
       <td>
         <ul>
-          <li>适配器模式（Adapter Pattern）</li>
+          <li><a href='adapter-pattern/document/适配器模式.md'>适配器模式（Adapter Pattern）</a></li>
           <li>桥接模式（Bridge Pattern）</li>
           <li>过滤器模式（Filter、Criteria Pattern）</li>
           <li>组合模式（Composite Pattern）</li>
