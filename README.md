@@ -38,7 +38,7 @@
       <td>
         <ul>
           <li><a href='adapter-pattern/document/适配器模式.md'>适配器模式（Adapter Pattern）</a></li>
-          <li>桥接模式（Bridge Pattern）</li>
+          <li><a href='bridge-pattern/document/桥接模式.md'>桥接模式（Bridge Pattern）</a></li>
           <li>过滤器模式（Filter、Criteria Pattern）</li>
           <li>组合模式（Composite Pattern）</li>
           <li>装饰器模式（Decorator Pattern）</li>
