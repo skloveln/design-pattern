@@ -44,7 +44,7 @@
           <li><a href='decorator-pattern/document/装饰器模式.md'>装饰器模式（Decorator Pattern）</a></li>
           <li>外观模式（Facade Pattern）</li>
           <li>享元模式（Flyweight Pattern）</li>
-          <li>代理模式（Proxy Pattern）</li>
+          <li><a href='proxy-pattern/document/代理模式.md'>代理模式（Proxy Pattern）</a></li>
         </ul>
       </td>
     </tr>
