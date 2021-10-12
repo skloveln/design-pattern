@@ -27,7 +27,7 @@ public class AudioPlayerAdapter implements MediaPlayer {
         } else if (audioType == AudioType.MP3) {
             audioPlayer.playMp3(filePath);
         } else {
-            throw new RuntimeException("不支持的音视频格式");
+            throw new RuntimeException("不支持的音频格式");
         }
     }
 }
