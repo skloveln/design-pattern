@@ -42,7 +42,7 @@
           <li>过滤器模式（Filter、Criteria Pattern）</li>
           <li>组合模式（Composite Pattern）</li>
           <li><a href='decorator-pattern/document/装饰器模式.md'>装饰器模式（Decorator Pattern）</a></li>
-          <li>外观模式（Facade Pattern）</li>
+          <li><a href='facade-pattern/document/外观模式.md'>外观模式（Facade Pattern）</a></li>
           <li>享元模式（Flyweight Pattern）</li>
           <li><a href='proxy-pattern/document/代理模式.md'>代理模式（Proxy Pattern）</a></li>
         </ul>
