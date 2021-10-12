@@ -1,5 +1,5 @@
 import com.github.sky.AudioType;
-import com.github.sky.CustomerMediaPlayer;
+import com.github.sky.MediaPlayerImpl;
 import org.junit.Test;
 
 /**
@@ -12,7 +12,7 @@ public class JunitTest {
 
     @Test
     public void test(){
-        CustomerMediaPlayer adapter = new CustomerMediaPlayer();
+        MediaPlayerImpl adapter = new MediaPlayerImpl();
         adapter.play(AudioType.AVI, "file1.avi");
         adapter.play(AudioType.MP4, "file2.mp4");
         adapter.play(AudioType.MP3, "file3.mp3");
