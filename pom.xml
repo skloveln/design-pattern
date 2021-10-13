@@ -18,6 +18,7 @@
         <module>decorator-pattern</module>
         <module>proxy-pattern</module>
         <module>facade-pattern</module>
+        <module>composite-pattern</module>
     </modules>
 
     <dependencies>
