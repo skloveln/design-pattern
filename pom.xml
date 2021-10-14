@@ -19,6 +19,7 @@
         <module>proxy-pattern</module>
         <module>facade-pattern</module>
         <module>composite-pattern</module>
+        <module>flyweight-pattern</module>
     </modules>
 
     <dependencies>
