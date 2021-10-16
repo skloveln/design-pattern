@@ -21,6 +21,7 @@
         <module>composite-pattern</module>
         <module>flyweight-pattern</module>
         <module>state-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
 
     <dependencies>
