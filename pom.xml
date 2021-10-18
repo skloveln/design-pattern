@@ -22,6 +22,7 @@
         <module>flyweight-pattern</module>
         <module>state-pattern</module>
         <module>strategy-pattern</module>
+        <module>template-pattern</module>
     </modules>
 
     <dependencies>
