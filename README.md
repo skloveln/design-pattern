@@ -53,7 +53,7 @@
       <td><b>行为型模式</b></td>
       <td>
         <ul>
-          <li>责任链模式（Chain of Responsibility Pattern）</li>
+          <li><a href='chain-pattern/document/责任链模式.md'>责任链模式（Chain of Responsibility Pattern）</a></li>
           <li>命令模式（Command Pattern）</li>
           <li>解释器模式（Interpreter Pattern）</li>
           <li>迭代器模式（Iterator Pattern）</li>
