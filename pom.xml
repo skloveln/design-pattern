@@ -24,6 +24,7 @@
         <module>strategy-pattern</module>
         <module>template-pattern</module>
         <module>chain-pattern</module>
+        <module>command-pattern</module>
     </modules>
 
     <dependencies>

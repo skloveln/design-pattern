@@ -39,7 +39,6 @@
         <ul>
           <li><a href='adapter-pattern/document/适配器模式.md'>适配器模式（Adapter Pattern）</a></li>
           <li><a href='bridge-pattern/document/桥接模式.md'>桥接模式（Bridge Pattern）</a></li>
-          <li>过滤器模式（Filter、Criteria Pattern）</li>
           <li><a href='composite-pattern/document/组合模式.md'>组合模式（Composite Pattern）</a></li>
           <li><a href='decorator-pattern/document/装饰器模式.md'>装饰器模式（Decorator Pattern）</a></li>
           <li><a href='facade-pattern/document/外观模式.md'>外观模式（Facade Pattern）</a></li>
@@ -54,14 +53,13 @@
       <td>
         <ul>
           <li><a href='chain-pattern/document/责任链模式.md'>责任链模式（Chain of Responsibility Pattern）</a></li>
-          <li>命令模式（Command Pattern）</li>
+          <li><a href='chain-pattern/document/命令模式.md'>命令模式（Command Pattern）</a></li>
           <li>解释器模式（Interpreter Pattern）</li>
           <li>迭代器模式（Iterator Pattern）</li>
           <li>中介者模式（Mediator Pattern）</li>
           <li>备忘录模式（Memento Pattern）</li>
           <li><a href='observer-pattern/document/观察者模式.md'>观察者模式（Observer Pattern）</a></li>
           <li><a href='state-pattern/document/状态模式.md'>状态模式（State Pattern）</a></li>
-          <li>空对象模式（Null Object Pattern）</li>
           <li><a href='strategy-pattern/document/策略模式.md'>策略模式（Strategy Pattern）</a></li>
           <li><a href='template-pattern/document/模板模式.md'>模板模式（Template Pattern）</a></li>
           <li>访问者模式（Visitor Pattern）</li>
