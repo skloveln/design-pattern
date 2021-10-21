@@ -55,7 +55,7 @@
           <li><a href='chain-pattern/document/责任链模式.md'>责任链模式（Chain of Responsibility Pattern）</a></li>
           <li><a href='command-pattern/document/命令模式.md'>命令模式（Command Pattern）</a></li>
           <li>解释器模式（Interpreter Pattern）</li>
-          <li>迭代器模式（Iterator Pattern）</li>
+          <li><a href='iterator-pattern/document/迭代器模式.md'>迭代器模式（Iterator Pattern）</a></li>
           <li>中介者模式（Mediator Pattern）</li>
           <li>备忘录模式（Memento Pattern）</li>
           <li><a href='observer-pattern/document/观察者模式.md'>观察者模式（Observer Pattern）</a></li>
