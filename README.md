@@ -62,7 +62,7 @@
           <li><a href='state-pattern/document/状态模式.md'>状态模式（State Pattern）</a></li>
           <li><a href='strategy-pattern/document/策略模式.md'>策略模式（Strategy Pattern）</a></li>
           <li><a href='template-pattern/document/模板模式.md'>模板模式（Template Pattern）</a></li>
-          <li>访问者模式（Visitor Pattern）</li>
+          <li><a href='visitor-pattern/document/访问者模式.md'>访问者模式（Visitor Pattern）</a></li>
         </ul>
       </td>
     </tr>
